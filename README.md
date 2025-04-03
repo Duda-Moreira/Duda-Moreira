@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 No momento estou estudando: <br><ol><li><li>Técnico em Desenvolvimento de Sistemas(<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>)</li></ol></p>
+<p align="left">📚 No momento estou estudando: <br><ol><li>Técnico em Desenvolvimento de Sistemas(<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>)</li></ol></p>
 
 ###
 
