@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Maria Eduarda e Eu sou uma aspirante a desenvolvedora de software</p>
-
-###
-
-<h2 align="left">Sobre Mim: </h2>
-
-###
-
-<p align="left">📚 No momento estou estudando: <br><ol><li>Técnico em Desenvolvimento de Sistemas(<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">Senac Hub Academy</a>)</li></ol></p>
+<p align="left">Meu nome é Maria Eduarda e eu sou uma aspirante a desenvolvedora de software</p>
 
 ###
 
@@ -35,7 +27,7 @@
 
 ###
 
-<h2>Contatos</h2>
+<h2>Contatos:</h2>
 
 <a href="https://www.linkedin.com/in/maria-eduarda-moreira-6475752a8/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt=""/>
