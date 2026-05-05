@@ -22,18 +22,7 @@
 + Focused on building systems, APIs, and automations
 + Surviving bugs, coffee, and questionable decisions
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-0d1f14?style=for-the-badge&logo=openjdklogoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/Spring-0d1f14?style=for-the-badge&logo=springlogoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/PHP-0d1f14?style=for-the-badge&logo=phplogoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/SQL-0d1f14?style=for-the-badge&logo=mysqllogoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/JavaScript-0d1f14?style=for-the-badgelogo=javascript&logoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/React-0d1f14?style=for-the-badge&logo=reactlogoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/HTML5-0d1f14?style=for-the-badge&logo=html5logoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/CSS3-0d1f14?style=for-the-badge&logo=css3logoColor=00ff88" /> 
-  <img src="https://img.shields.io/badge/Git-0d1f14?style=for-the-badge&logo=gitlogoColor=00ff88" />
-</p>
+---
 
 ### 🛡️ Tech Arsenal (Backend Focused)
 
