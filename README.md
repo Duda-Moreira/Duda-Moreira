@@ -68,10 +68,21 @@
 
 ---
 
-### 🐍 Contribution Flow
+### ⚡ Backend Activity Flux
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Duda-Moreira&bg_color=0d1f14&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true" />
 </p>
+
+---
+
+### 🛠️ Backend Environment & Runtimes
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-0d1f14?style=for-the-badge&logo=openjdk&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0d1f14?style=for-the-badge&logo=spring&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/PHP_8-0d1f14?style=for-the-badge&logo=php&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1f14?style=for-the-badge&logo=postgresql&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Docker-0d1f14?style=for-the-badge&logo=docker&logoColor=00ff88" />
+</div>
 
 ---
 
