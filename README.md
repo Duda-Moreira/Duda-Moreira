@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-```diff
+```
 + Backend developer in training
 + Focused on building systems, APIs, and automations
 + Surviving bugs, coffee, and questionable decisions
