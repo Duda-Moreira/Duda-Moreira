@@ -35,6 +35,37 @@
   <img src="https://img.shields.io/badge/Git-0d1f14?style=for-the-badge&logo=gitlogoColor=00ff88" />
 </p>
 
+### 🛡️ Tech Arsenal (Backend Focused)
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>Core Development</b><br>
+      <img src="https://img.shields.io/badge/Java-0d1f14?style=for-the-badge&logo=openjdk&logoColor=00ff88" />
+      <img src="https://img.shields.io/badge/Spring_Boot-0d1f14?style=for-the-badge&logo=spring&logoColor=00ff88" /><br>
+      <img src="https://img.shields.io/badge/PHP-0d1f14?style=for-the-badge&logo=php&logoColor=00ff88" />
+      <img src="https://img.shields.io/badge/Node.js-0d1f14?style=for-the-badge&logo=nodedotjs&logoColor=00ff88" />
+    </td>
+    <td align="center" width="50%">
+      <b>Data & Infrastructure</b><br>
+      <img src="https://img.shields.io/badge/MySQL-0d1f14?style=for-the-badge&logo=mysql&logoColor=00ff88" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1f14?style=for-the-badge&logo=postgresql&logoColor=00ff88" /><br>
+      <img src="https://img.shields.io/badge/Docker-0d1f14?style=for-the-badge&logo=docker&logoColor=00ff88" />
+      <img src="https://img.shields.io/badge/Git-0d1f14?style=for-the-badge&logo=git&logoColor=00ff88" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>Complementary Skills</b><br>
+      <img src="https://img.shields.io/badge/Android_Mobile-0d1f14?style=flat-square&logo=android&logoColor=00ff88" />
+      <img src="https://img.shields.io/badge/React-0d1f14?style=flat-square&logo=react&logoColor=00ff88" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1f14?style=flat-square&logo=typescript&logoColor=00ff88" />
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center"> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uvc6kmlz7xyz75ab765kcgk5wa" />
 </p>
