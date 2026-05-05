@@ -68,6 +68,13 @@
 
 ---
 
+### 🐍 Contribution Flow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
 <p align="center"> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uvc6kmlz7xyz75ab765kcgk5wa" />
 </p>
