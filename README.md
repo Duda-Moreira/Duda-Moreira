@@ -2,7 +2,12 @@
   <img src="https://i.pinimg.com/originals/bf/be/bf/bfbebfbec87152e6032cdb24caf8d60e.gif" width="100%" />
 </p>
 
-<h1 align="center">Duda Moreira</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Duda+Moreira;Software+Developer;Fullstack+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+<!-- <h1 align="center">Duda Moreira</h1> -->
 
 <p align="center">
   <i>"I just want to stay calm... but the backend isn't cooperating."</i>
