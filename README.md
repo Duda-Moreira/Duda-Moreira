@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Duda+Moreira;Software+Developer;Fullstack+Enthusiast;Surviving+bugs;I+just+want+to+stay+calm..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Duda+Moreira;Software+Developer;Fullstack+Enthusiast;..." alt="Typing SVG" />
   </a>
 </p>
 <!-- <h1 align="center">Duda Moreira</h1> -->
@@ -16,11 +16,13 @@
 ---
 
 ## 🧠 About Me
-
-```
-+ Backend developer in training
-+ Focused on building systems, APIs, and automations
-+ Surviving bugs, coffee, and questionable decisions
+```javascript
+const duda = {
+  pronouns: "she/her",
+  code: ["Java", "JavaScript", "PHP", "TypeScript"],
+  tools: ["React", "Spring Boot", "Android Native"],
+  goal: "Building scalable systems and avoiding too much coffee"
+};
 ```
 
 <p align="center">
