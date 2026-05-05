@@ -16,13 +16,11 @@
 ---
 
 ## 🧠 About Me
-```javascript
-const duda = {
-  pronouns: "she/her",
-  code: ["Java", "JavaScript", "PHP", "TypeScript"],
-  tools: ["React", "Spring Boot", "Android Native"],
-  goal: "Building scalable systems and avoiding too much coffee"
-};
+
+```
++ Backend developer in training
++ Focused on building systems, APIs, and automations
++ Surviving bugs, coffee, and questionable decisions
 ```
 
 <p align="center">
