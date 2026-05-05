@@ -35,16 +35,24 @@
 </p>
 
 <p align="center"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Duda-Moreira&show_icons=true&theme=dark&bg_color=0d1f14&title_color=00ff88&icon_color=00ff88&text_color=c9fdd7&border_color=00ff88" /> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Moreira&layout=compact&theme=dark&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&border_color=00ff88" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Duda-Moreira&show_icons=true&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&icon_color=00ff88&border_color=00ff88" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Moreira&layout=compact&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&border_color=00ff88" /> 
 </p> 
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&theme=dark&background=0d1f14&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&background=0d1f14&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" /> 
+</p>
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Duda-Moreira&theme=matrix&no-frame=true&row=1&column=6" /> 
 </p>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/github-contribution-grid-snake-dark.svg" /> 
+</p>
+
+<p align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> 
 </p>
 
 <p align="center"> 
