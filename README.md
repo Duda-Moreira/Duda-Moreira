@@ -55,6 +55,19 @@
 
 ---
 
+### 📈 Metrics & Telemetry
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duda-Moreira&show_icons=true&theme=terminal&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&icon_color=00ff88&border_color=00ff88" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Moreira&layout=compact&theme=terminal&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&border_color=00ff88" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&theme=terminal&background=0d1f14&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" />
+</p>
+
+---
+
 <p align="center"> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uvc6kmlz7xyz75ab765kcgk5wa" />
 </p>
