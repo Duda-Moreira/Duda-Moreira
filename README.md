@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/bf/be/bf/bfbebfbec87152e6032cdb24caf8d60e.gif" width="100%" />
 </p>
 
-<h1 align="center">🌿 Duda.dev</h1>
+<h1 align="center">Duda Moreira</h1>
 
 <p align="center">
   <i>"I just want to stay calm... but the backend isn't cooperating."</i>
@@ -34,21 +34,16 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uvc6kmlz7xyz75ab765kcgk5wa" />
 </p>
 
+<!-- 
 <p align="center"> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Duda-Moreira&show_icons=true&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&icon_color=00ff88&border_color=00ff88" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Moreira&layout=compact&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&border_color=00ff88" /> 
-</p> 
+</p>  
+PAUSARAM ESSA MERDA!!!!!
+-->
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&background=0d1f14&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" /> 
-</p>
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Duda-Moreira&theme=matrix&no-frame=true&row=1&column=6" /> 
-</p>
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/github-contribution-grid-snake-dark.svg" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&background=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" /> 
 </p>
 
 <p align="center"> 
