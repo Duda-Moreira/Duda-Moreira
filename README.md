@@ -1,62 +1,52 @@
-<div align="center">
-  <img height="278" src="https://i.pinimg.com/originals/bf/be/bf/bfbebfbec87152e6032cdb24caf8d60e.gif"  />
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bf/be/bf/bfbebfbec87152e6032cdb24caf8d60e.gif" width="100%" />
+</p>
 
-###
+<h1 align="center">🌿 Duda.dev</h1>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Duda-Moreira.Duda-Moreira&left_color=black&right_color=black"  />
-</div>
+<p align="center">
+  <i>"I just want to stay calm... but the backend isn't cooperating."</i>
+</p>
 
-###
+---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Duda ⚢">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Duda%20%E2%9A%A2&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+## 🧠 About Me
 
-###
+```diff
++ Backend developer in training
++ Focused on building systems, APIs, and automations
++ Surviving bugs, coffee, and questionable decisions
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0d1f14?style=for-the-badge&logo=openjdklogoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/Spring-0d1f14?style=for-the-badge&logo=springlogoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/PHP-0d1f14?style=for-the-badge&logo=phplogoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/SQL-0d1f14?style=for-the-badge&logo=mysqllogoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/JavaScript-0d1f14?style=for-the-badgelogo=javascript&logoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/React-0d1f14?style=for-the-badge&logo=reactlogoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/HTML5-0d1f14?style=for-the-badge&logo=html5logoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/CSS3-0d1f14?style=for-the-badge&logo=css3logoColor=00ff88" /> 
+  <img src="https://img.shields.io/badge/Git-0d1f14?style=for-the-badge&logo=gitlogoColor=00ff88" />
+</p>
 
-###
+<p align="center"> 
+  <img src="https://spotify-recently-played-readme.vercel.app/apiuser=31uvc6kmlz7xyz75ab765kcgk5wa" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center"> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Duda-Moreira&show_icons=true&theme=dark&bg_color=0d1f14&title_color=00ff88&icon_color=00ff88&text_color=c9fdd7&border_color=00ff88" /> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Moreira&layout=compact&theme=dark&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&border_color=00ff88" /> 
+</p> 
 
-###
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&theme=dark&background=0d1f14&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" /> 
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duda-Moreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Duda-Moreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Duda-Moreira/Duda-Moreira/output/github-contribution-grid-snake-dark.svg" /> 
+</p>
 
-###
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Duda-Moreira&label=profile+views&color=00ff88&style=flat" /> 
+</p> 
