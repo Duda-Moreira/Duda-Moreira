@@ -75,17 +75,6 @@
 
 ---
 
-### 🛠️ Backend Environment & Runtimes
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-0d1f14?style=for-the-badge&logo=openjdk&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0d1f14?style=for-the-badge&logo=spring&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/PHP_8-0d1f14?style=for-the-badge&logo=php&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1f14?style=for-the-badge&logo=postgresql&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/Docker-0d1f14?style=for-the-badge&logo=docker&logoColor=00ff88" />
-</div>
-
----
-
 <p align="center"> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uvc6kmlz7xyz75ab765kcgk5wa" />
 </p>
