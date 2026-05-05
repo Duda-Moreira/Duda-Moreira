@@ -55,7 +55,6 @@
 
 ---
 
-### 📈 Metrics & Telemetry
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duda-Moreira&show_icons=true&theme=terminal&bg_color=0d1f14&title_color=00ff88&text_color=c9fdd7&icon_color=00ff88&border_color=00ff88" />
@@ -68,7 +67,6 @@
 
 ---
 
-### ⚡ Backend Activity Flux
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Duda-Moreira&bg_color=0d1f14&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true" />
 </p>
@@ -96,5 +94,5 @@ PAUSARAM ESSA MERDA!!!!!
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Duda-Moreira&label=profile+views&color=00ff88&style=flat" /> 
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=Duda-Moreira&label=profile+views&color=00ff88&style=flat-square" /> 
+</p>
