@@ -24,7 +24,7 @@
 ```
 ---
 
-### 🛡️ Tech Arsenal (Backend Focused)
+### 🛡️ Tech Arsenal 
 
 <table align="center">
   <tr>
