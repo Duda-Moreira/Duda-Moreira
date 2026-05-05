@@ -43,7 +43,7 @@ PAUSARAM ESSA MERDA!!!!!
 -->
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&background=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duda-Moreira&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" /> 
 </p>
 
 <p align="center"> 
