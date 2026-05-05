@@ -31,7 +31,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://spotify-recently-played-readme.vercel.app/apiuser=31uvc6kmlz7xyz75ab765kcgk5wa" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uvc6kmlz7xyz75ab765kcgk5wa" />
 </p>
 
 <p align="center"> 
